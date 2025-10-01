@@ -4,3 +4,4 @@ env/
 ENV/
 *.egg-info/
 __pycache__/
+chrome_profile/
